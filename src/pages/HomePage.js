@@ -45,7 +45,6 @@ const HomePage = () => {
       <div className="row">
         <div className="col-md-6 offset-md-3">
           <h2 className="text-center text-dark mt-5">Login Form</h2>
-          <div className="text-center mb-5 text-dark">Made with bootstrap</div>
           <div className="card my-5">
             <form className="card-body cardbody-color p-lg-5">
               <div className="text-center">
